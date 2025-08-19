@@ -106,3 +106,4 @@ if you use this Landing Page Template, please give a credit to [Pagen AI](https:
 > Create landing page in seconds, try it out 👉 [Pagen AI Landing Page Generator](https://pagen.so/landing-page-generator)
 # Pixel_AI_Landing_Page
 # Pixel_AI_Landing_Page
+# Pixel_AI_Landing_Page
